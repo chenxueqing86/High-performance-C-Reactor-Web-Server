@@ -1,0 +1,20 @@
+# 编译产物
+*.o
+*.so
+*.a
+*.out
+build/
+cmake-build-*/
+
+# 日志
+*.log
+log/
+
+# vscode
+.vscode/
+*.swp
+*.swo
+
+# 可执行程序
+server
+test
